@@ -9,3 +9,5 @@ https://stream.hoster.by/belarus3/abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9
 https://stream.hoster.by/belarus5/abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE4IDE6MjE6NTUgUE0maGFzaF92YWx1ZT1tUkVuVlIwa0tOdjdNNmFCd0hUQnZBPT0mdmFsaWRtaW51dGVzPTEyMA==
 #EXTINF:0 tvg-logo="http://495100.ssl.1c-bitrix-cdn.ru/bitrix/templates/template-custom/images/channels/belarus-24.png?153440702727185" group-title="Общественные"  tvg-name="https://m.tv.yandex.by/149/channels/248" ,Беларусь 24
 https://stream.hoster.by/belarus24/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE4IDE6MjU6MDAgUE0maGFzaF92YWx1ZT10OXUydStIek1UK1RNMENDSmdYeWh3PT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:-1,ОНТ
+http://176.118.155.154:81/udp/231.1.1.2:1234
