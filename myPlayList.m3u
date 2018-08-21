@@ -1,9 +1,11 @@
 ﻿#EXTM3U
 #EXTINF:0 tvg-logo="http://495100.ssl.1c-bitrix-cdn.ru/bitrix/templates/template-custom/images/channels/belarus-1.png?153440702728150" group-title="Общественные"  tvg-name="https://m.tv.yandex.ru/149/channels/696" ,Беларусь 1
 https://stream.hoster.by/belarus1/abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE4IDEyOjU5OjA1IFBNJmhhc2hfdmFsdWU9ck9HS1RuQWJGZFNYcFJ2WjJBNForUT09JnZhbGlkbWludXRlcz0xMjA=
-#EXTINF:0 tvg-logo="http://84.19.173.195/iptv/logo/1965.png" group-title="Общественные"  tvg-name="https://m.tv.yandex.ru/149/channels/299" ,Беларусь 2
-http://178.124.141.170:1935/live/BT2_qwer.stream/playlist.m3u8?hash=29f659783bf0df49577ae9ee05c237e2
-#EXTINF:0 tvg-logo="http://84.19.173.195/iptv/logo/1966.png" group-title="Общественные"  tvg-name="https://m.tv.yandex.ru/149/channels/1014" ,Беларусь 3
-http://178.124.141.167:1935/liveedge/BT3_j3s1_360p.stream/playlist.m3u8?hash=29f659783bf0df49577ae9ee05c237e2
-#EXTINF:0 tvg-logo="http://84.19.173.195/iptv/logo/2010.png" group-title="Общественные"  tvg-name="https://m.tv.yandex.ru/149/channels/1050" ,Беларусь 5
-http://178.124.183.13/hls/JRKVSUPCP8/bw2000000/playlist.m3u8?version=2
+#EXTINF:0 tvg-logo="http://495100.ssl.1c-bitrix-cdn.ru/bitrix/templates/template-custom/images/channels/belarus-2.png?153440702726901" group-title="Общественные"  tvg-name="https://m.tv.yandex.ru/149/channels/299" ,Беларусь 2
+https://stream.hoster.by/belarus2/abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE4IDE6MTE6NTEgUE0maGFzaF92YWx1ZT1Ua2h4eVFhdlRKa01Wc0tvd3YraXdBPT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0 tvg-logo="http://495100.ssl.1c-bitrix-cdn.ru/bitrix/templates/template-custom/images/channels/belarus-3.png?153440702727535" group-title="Общественные"  tvg-name="https://m.tv.yandex.ru/149/channels/1014" ,Беларусь 3
+https://stream.hoster.by/belarus3/abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE4IDE6MTk6MDcgUE0maGFzaF92YWx1ZT1JTzZFVGMyaEZxb0JRTkpBUWtFSG9RPT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0 tvg-logo="http://495100.ssl.1c-bitrix-cdn.ru/bitrix/templates/template-custom/images/channels/belarus-5.png?153440702727059" group-title="Общественные"  tvg-name="https://m.tv.yandex.ru/149/channels/1050" ,Беларусь 5
+https://stream.hoster.by/belarus5/abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE4IDE6MjE6NTUgUE0maGFzaF92YWx1ZT1tUkVuVlIwa0tOdjdNNmFCd0hUQnZBPT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0 tvg-logo="http://495100.ssl.1c-bitrix-cdn.ru/bitrix/templates/template-custom/images/channels/belarus-24.png?153440702727185" group-title="Общественные"  tvg-name="https://m.tv.yandex.by/149/channels/248" ,Беларусь 24
+https://stream.hoster.by/belarus24/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE4IDE6MjU6MDAgUE0maGFzaF92YWx1ZT10OXUydStIek1UK1RNMENDSmdYeWh3PT0mdmFsaWRtaW51dGVzPTEyMA==
