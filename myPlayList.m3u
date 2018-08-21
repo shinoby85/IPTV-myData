@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="http://84.19.173.195/iptv/logo/1964.png" group-title="Общественные"  tvg-name="https://m.tv.yandex.ru/149/channels/696" ,Беларусь 1
+http://178.124.183.19/hls/M52YG9EVYD/bw2000000/playlist.m3u8?version=2
+#EXTINF:0 tvg-logo="http://84.19.173.195/iptv/logo/1965.png" group-title="Общественные"  tvg-name="https://m.tv.yandex.ru/149/channels/299" ,Беларусь 2
+http://178.124.141.170:1935/live/BT2_qwer.stream/playlist.m3u8?hash=29f659783bf0df49577ae9ee05c237e2
+#EXTINF:0 tvg-logo="http://84.19.173.195/iptv/logo/1966.png" group-title="Общественные"  tvg-name="https://m.tv.yandex.ru/149/channels/1014" ,Беларусь 3
+http://178.124.141.167:1935/liveedge/BT3_j3s1_360p.stream/playlist.m3u8?hash=29f659783bf0df49577ae9ee05c237e2
+#EXTINF:0 tvg-logo="http://84.19.173.195/iptv/logo/2010.png" group-title="Общественные"  tvg-name="https://m.tv.yandex.ru/149/channels/1050" ,Беларусь 5
+http://178.124.183.13/hls/JRKVSUPCP8/bw2000000/playlist.m3u8?version=2
+#EXTINF:0 tvg-name="https://m.tv.yandex.ru/149/channels/414" tvg-logo="http://tvbox.by/img/channels/stv-682.png",СТВ
+http://178.124.141.171:1935/Archive/STV_SD_360p.stream/playlist.m3u8?hash=29f659783bf0df49577ae9ee05c237e2
+#EXTINF:0 tvg-logo="http://84.19.173.195/iptv/logo/446.png" group-title="Региональные"  tvg-name="https://m.tv.yandex.ru/149/channels/652" ,РТР-Беларусь
+http://178.124.141.167:1935/liveedge/RTR_k2s1_360p.stream/playlist.m3u8?hash=29f659783bf0df49577ae9ee05c237e2
+#EXTINF:0 tvg-logo="http://84.19.173.195/iptv/logo/16.png" group-title="Общественные"  tvg-name="https://m.tv.yandex.ru/149/channels/440" ,НТВ-Беларусь
+http://178.124.141.167:1935/liveedge/NTV_f89h_360p.stream/playlist.m3u8?hash=29f659783bf0df49577ae9ee05c237e2
