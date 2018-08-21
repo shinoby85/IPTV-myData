@@ -14,8 +14,8 @@ http://91.149.172.100:80/channel?id=47&u=demo&p=demo
 #EXTINF:0 tvg-name="https://m.tv.yandex.ru/149/channels/414" tvg-logo="http://tvbox.by/img/channels/stv-682.png",СТВ
 http://178.124.141.171:1935/Archive/STV_SD_360p.stream/playlist.m3u8?hash=29f659783bf0df49577ae9ee05c237e2
 #EXTINF:0 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/rtrbelarus.png" group-title="Региональные"  tvg-name="https://m.tv.yandex.ru/149/channels/652" ,РТР-Беларусь
-http://178.124.141.167:1935/liveedge/RTR_k2s1_360p.stream/playlist.m3u8?hash=29f659783bf0df49577ae9ee05c237e2
+http://176.118.155.154:81/udp/231.1.1.5:1234
 #EXTINF:0 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/ntv_belarus.png" group-title="Общественные"  tvg-name="https://m.tv.yandex.ru/149/channels/440" ,НТВ-Беларусь
-http://178.124.141.167:1935/liveedge/NTV_f89h_360p.stream/playlist.m3u8?hash=29f659783bf0df49577ae9ee05c237e2
+http://91.149.172.100:80/channel?id=49&u=demo&p=demo
 #EXTINF:0 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/mir.png" group-title="Новости"  tvg-name="http://m.tv.yandex.ru/213/channels/726" ,Мир
-http://178.124.141.167:1935/liveedge/MIR_nd1h_360p.stream/playlist.m3u8?hash=29f659783bf0df49577ae9ee05c237e2
+http://91.149.172.100:80/channel?id=51&u=demo&p=demo
