@@ -17,6 +17,7 @@ http://178.124.141.171:1935/Archive/STV_SD_360p.stream/playlist.m3u8
 http://91.149.172.100:80/channel?id=49&u=demo&p=demo
 #EXTINF:0 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/mir.png" group-title="Новости"  tvg-name="http://m.tv.yandex.ru/213/channels/726" ,Мир
 http://91.149.172.100:80/channel?id=51&u=demo&p=demo
+
 #EXTINF:0,РБК-ТВ
 #EXTGRP:новости
 http://6bc79edb.ulkakak.pw/iptv/CHPLNSPSC3DXKY/106/index.m3u8
