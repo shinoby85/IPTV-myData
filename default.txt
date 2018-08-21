@@ -1,0 +1,2 @@
+#EXTINF:0 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/rtrbelarus.png" group-title="Региональные"  tvg-name="https://m.tv.yandex.ru/149/channels/652" ,РТР-Беларусь
+http://176.118.155.154:81/udp/231.1.1.5:1234
