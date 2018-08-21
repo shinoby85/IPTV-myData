@@ -1,6 +1,6 @@
 ﻿#EXTM3U
-#EXTINF:0 tvg-logo="http://84.19.173.195/iptv/logo/1964.png" group-title="Общественные"  tvg-name="https://m.tv.yandex.ru/149/channels/696" ,Беларусь 1
-http://178.124.183.19/hls/M52YG9EVYD/bw2000000/playlist.m3u8?version=2
+#EXTINF:0 tvg-logo="http://495100.ssl.1c-bitrix-cdn.ru/bitrix/templates/template-custom/images/channels/belarus-1.png?153440702728150" group-title="Общественные"  tvg-name="https://m.tv.yandex.ru/149/channels/696" ,Беларусь 1
+https://stream.hoster.by/belarus1/abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE4IDEyOjU5OjA1IFBNJmhhc2hfdmFsdWU9ck9HS1RuQWJGZFNYcFJ2WjJBNForUT09JnZhbGlkbWludXRlcz0xMjA=
 #EXTINF:0 tvg-logo="http://84.19.173.195/iptv/logo/1965.png" group-title="Общественные"  tvg-name="https://m.tv.yandex.ru/149/channels/299" ,Беларусь 2
 http://178.124.141.170:1935/live/BT2_qwer.stream/playlist.m3u8?hash=29f659783bf0df49577ae9ee05c237e2
 #EXTINF:0 tvg-logo="http://84.19.173.195/iptv/logo/1966.png" group-title="Общественные"  tvg-name="https://m.tv.yandex.ru/149/channels/1014" ,Беларусь 3
