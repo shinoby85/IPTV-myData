@@ -1,14 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:0 tvg-logo="http://495100.ssl.1c-bitrix-cdn.ru/bitrix/templates/template-custom/images/channels/belarus-1.png?153440702728150" group-title="Общественные"  tvg-name="https://m.tv.yandex.ru/149/channels/696" ,Беларусь 1
-https://stream.hoster.by/belarus1/abr/playlist.m3u8
-#EXTINF:0 tvg-logo="http://495100.ssl.1c-bitrix-cdn.ru/bitrix/templates/template-custom/images/channels/belarus-2.png?153440702726901" group-title="Общественные"  tvg-name="https://m.tv.yandex.ru/149/channels/299" ,Беларусь 2
-https://stream.hoster.by/belarus2/abr/playlist.m3u8
-#EXTINF:0 tvg-logo="http://495100.ssl.1c-bitrix-cdn.ru/bitrix/templates/template-custom/images/channels/belarus-3.png?153440702727535" group-title="Общественные"  tvg-name="https://m.tv.yandex.ru/149/channels/1014" ,Беларусь 3
-https://stream.hoster.by/belarus3/abr/playlist.m3u8
-#EXTINF:0 tvg-logo="http://495100.ssl.1c-bitrix-cdn.ru/bitrix/templates/template-custom/images/channels/belarus-5.png?153440702727059" group-title="Общественные"  tvg-name="https://m.tv.yandex.ru/149/channels/1050" ,Беларусь 5
-https://stream.hoster.by/belarus5/abr/playlist.m3u8
-#EXTINF:0 tvg-logo="http://495100.ssl.1c-bitrix-cdn.ru/bitrix/templates/template-custom/images/channels/belarus-24.png?153440702727185" group-title="Общественные"  tvg-name="https://m.tv.yandex.by/149/channels/248" ,Беларусь 24
-https://stream.hoster.by/belarus24/live/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/82637188694a3aa89d6cf201c08f1a33.png" group-title="Региональные"  tvg-name="https://m.tv.yandex.ru/149/channels/484" ,ОНТ
 http://91.149.172.100:80/channel?id=47&u=demo&p=demo
 #EXTINF:0 tvg-name="https://m.tv.yandex.ru/149/channels/414" tvg-logo="http://tvbox.by/img/channels/stv-682.png",СТВ
@@ -17,6 +8,9 @@ http://178.124.141.171:1935/Archive/STV_SD_360p.stream/playlist.m3u8
 http://91.149.172.100:80/channel?id=49&u=demo&p=demo
 #EXTINF:0 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/mir.png" group-title="Новости"  tvg-name="http://m.tv.yandex.ru/213/channels/726" ,Мир
 http://91.149.172.100:80/channel?id=51&u=demo&p=demo
+
+
+
 
 #EXTINF:0,РБК-ТВ
 #EXTGRP:новости

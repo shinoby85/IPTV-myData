@@ -1,2 +1,12 @@
+#EXTINF:0 tvg-logo="http://495100.ssl.1c-bitrix-cdn.ru/bitrix/templates/template-custom/images/channels/belarus-1.png?153440702728150" group-title="Общественные"  tvg-name="https://m.tv.yandex.ru/149/channels/696" ,Беларусь 1
+https://stream.hoster.by/belarus1/abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDE4IDExOjIxOjQxIEFNJmhhc2hfdmFsdWU9cUtFWVdPdVJXVXBZeTh6SVR0T05HQT09JnZhbGlkbWludXRlcz0xMjA=
+#EXTINF:0 tvg-logo="http://495100.ssl.1c-bitrix-cdn.ru/bitrix/templates/template-custom/images/channels/belarus-2.png?153440702726901" group-title="Общественные"  tvg-name="https://m.tv.yandex.ru/149/channels/299" ,Беларусь 2
+https://stream.hoster.by/belarus2/abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDE4IDExOjE3OjI4IEFNJmhhc2hfdmFsdWU9Vmd0ZnF0ejhPTjNkY2dWWDlOUTR4UT09JnZhbGlkbWludXRlcz0xMjA=
+#EXTINF:0 tvg-logo="http://495100.ssl.1c-bitrix-cdn.ru/bitrix/templates/template-custom/images/channels/belarus-3.png?153440702727535" group-title="Общественные"  tvg-name="https://m.tv.yandex.ru/149/channels/1014" ,Беларусь 3
+https://stream.hoster.by/belarus3/abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDE4IDExOjIzOjM1IEFNJmhhc2hfdmFsdWU9RGZhRFBUa2g5RU04WHV0QUZkS3kzQT09JnZhbGlkbWludXRlcz0xMjA=
+#EXTINF:0 tvg-logo="http://495100.ssl.1c-bitrix-cdn.ru/bitrix/templates/template-custom/images/channels/belarus-5.png?153440702727059" group-title="Общественные"  tvg-name="https://m.tv.yandex.ru/149/channels/1050" ,Беларусь 5
+https://stream.hoster.by/belarus5/abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDE4IDExOjI0OjQxIEFNJmhhc2hfdmFsdWU9amJQMGtuVndLOUx5N0E5MDVIVlBxQT09JnZhbGlkbWludXRlcz0xMjA=
+#EXTINF:0 tvg-logo="http://495100.ssl.1c-bitrix-cdn.ru/bitrix/templates/template-custom/images/channels/belarus-24.png?153440702727185" group-title="Общественные"  tvg-name="https://m.tv.yandex.by/149/channels/248" ,Беларусь 24
+https://stream.hoster.by/belarus24/live/playlist.m3u8
 #EXTINF:0 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/rtrbelarus.png" group-title="Региональные"  tvg-name="https://m.tv.yandex.ru/149/channels/652" ,РТР-Беларусь
-http://176.118.155.154:81/udp/231.1.1.5:1234
+http://151.249.196.177:81/udp/233.81.116.6:1234
