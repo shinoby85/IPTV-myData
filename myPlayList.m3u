@@ -1,5 +1,15 @@
 ﻿#EXTM3U
 
+#EXTINF:0 tvg-logo="http://495100.ssl.1c-bitrix-cdn.ru/bitrix/templates/template-custom/images/channels/belarus-1.png?153440702728150" group-title="Общественные"  tvg-name="https://m.tv.yandex.ru/149/channels/696" ,Беларусь 1
+acestream://b9d70f3aed1258635b702ea649c5a621162106d2
+#EXTINF:0 tvg-logo="http://495100.ssl.1c-bitrix-cdn.ru/bitrix/templates/template-custom/images/channels/belarus-2.png?153440702726901" group-title="Общественные"  tvg-name="https://m.tv.yandex.ru/149/channels/299" ,Беларусь 2
+acestream://1baf89c0f0017cc4db4730e124eab35f69799e7e
+#EXTINF:0 tvg-logo="http://495100.ssl.1c-bitrix-cdn.ru/bitrix/templates/template-custom/images/channels/belarus-3.png?153440702727535" group-title="Общественные"  tvg-name="https://m.tv.yandex.ru/149/channels/1014" ,Беларусь 3
+acestream://4bdb011f75e612029ff547c715842e34895dae4e
+#EXTINF:0 tvg-logo="http://495100.ssl.1c-bitrix-cdn.ru/bitrix/templates/template-custom/images/channels/belarus-24.png?153440702727185" group-title="Общественные"  tvg-name="https://m.tv.yandex.by/149/channels/248" ,Беларусь 24
+acestream://ffbdba37c30151e59736ffb2290e6d4a64b67b01
+#EXTINF:0 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/rtrbelarus.png" group-title="Региональные"  tvg-name="https://m.tv.yandex.ru/149/channels/652" ,РТР-Беларусь
+acestream://4db036434c9475eeb65c2218ca8f48663755a91b
 #EXTINF:0 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/82637188694a3aa89d6cf201c08f1a33.png" group-title="Региональные"  tvg-name="https://m.tv.yandex.ru/149/channels/484" ,ОНТ
 http://91.149.172.100:80/channel?id=47&u=demo&p=demo
 #EXTINF:0 tvg-name="https://m.tv.yandex.ru/149/channels/414" tvg-logo="http://tvbox.by/img/channels/stv-682.png",СТВ
