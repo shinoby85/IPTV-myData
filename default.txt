@@ -5,7 +5,7 @@ https://stream.hoster.by/belarus2/abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9
 #EXTINF:0 tvg-logo="http://495100.ssl.1c-bitrix-cdn.ru/bitrix/templates/template-custom/images/channels/belarus-3.png?153440702727535" group-title="Общественные"  tvg-name="https://m.tv.yandex.ru/149/channels/1014" ,Беларусь 3
 https://stream.hoster.by/belarus3/abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDE4IDExOjIzOjM1IEFNJmhhc2hfdmFsdWU9RGZhRFBUa2g5RU04WHV0QUZkS3kzQT09JnZhbGlkbWludXRlcz0xMjA=
 #EXTINF:0 tvg-logo="http://495100.ssl.1c-bitrix-cdn.ru/bitrix/templates/template-custom/images/channels/belarus-5.png?153440702727059" group-title="Общественные"  tvg-name="https://m.tv.yandex.ru/149/channels/1050" ,Беларусь 5
-https://stream.hoster.by/belarus5/abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDE4IDExOjI0OjQxIEFNJmhhc2hfdmFsdWU9amJQMGtuVndLOUx5N0E5MDVIVlBxQT09JnZhbGlkbWludXRlcz0xMjA=
+http://178.124.183.13/hls/JRKVSUPCP8/bw2000000/playlist.m3u8?version=2
 #EXTINF:0 tvg-logo="http://495100.ssl.1c-bitrix-cdn.ru/bitrix/templates/template-custom/images/channels/belarus-24.png?153440702727185" group-title="Общественные"  tvg-name="https://m.tv.yandex.by/149/channels/248" ,Беларусь 24
 https://stream.hoster.by/belarus24/live/playlist.m3u8
 #EXTINF:0 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/rtrbelarus.png" group-title="Региональные"  tvg-name="https://m.tv.yandex.ru/149/channels/652" ,РТР-Беларусь
