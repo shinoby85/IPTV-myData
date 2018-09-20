@@ -21,352 +21,207 @@ http://91.149.172.100:80/channel?id=49&u=demo&p=demo
 #EXTINF:0 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/mir.png" group-title="Новости"  tvg-name="http://m.tv.yandex.ru/213/channels/726" ,Мир
 http://91.149.172.100:80/channel?id=51&u=demo&p=demo
 
-#EXTINF:0,Первый канал HD
-http://185.74.221.220/539_1/8000k_stream.m3u8?q=MUFIUkRHNnBORnV0L2hUb2JDMWVTb0tvRHBnUnVZTk5xNFQxTE9BK2p3WGwrYWtRd3pSQjZsdnJaYVU5N1NKMnRuWkNNbGda
-#EXTINF:0,Россия 1 HD
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1600000.m3u8
-#EXTINF:0,МИР HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:0,Пятница (HD)
-#EXTVLCOPT:network-caching=1000
-http://185.10.211.10:9153/play/a03n
-#EXTINF:0,Рен ТВ HD
-#EXTVLCOPT:network-caching=1000
-http://185.10.211.10:9153/play/a008
-#EXTINF:0,Страшное HD
-#EXTVLCOPT:network-caching=1000
-http://185.10.211.10:9153/play/a007
-#EXTINF:-1,ТНТ +4
-http://195.88.16.15/tnt/index.m3u8
-#EXTINF:-1,ТНТ4 
-http://infolink.cdnvideo.ru/streaming/tnt4/324/vh1/playlist.m3u8
-#EXTINF:-1,ТНТ-International (Европа) 
-http://87.252.229.252:8082/tnt
-#EXTINF:-1,Россия РТР
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Россия К
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_hig.m3u8
-#EXTINF:-1,Мир
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:0,Мир 24
-http://195.88.16.15/mir24/index.m3u8
-#EXTINF:0,НТВ
-http://195.88.16.15/ntv/index.m3u8
-#EXTINF:0,СТС
-http://195.88.16.15/sts/index.m3u8
-#EXTINF:-1,Домашний
-http://195.88.16.15/domashniy/index.m3u8
-#EXTINF:-1,Пятница
-http://195.88.16.15/pyatnica/index.m3u8
-#EXTINF:-1,Рен ТВ
-http://195.88.16.15/ren/index.m3u8
-#EXTINF:-1,ТВ Центр
-http://195.88.16.15/tvc/index.m3u8
-#EXTINF:-1,ТВ Центр International
-http://185.192.251.89/tvc-p212/smil:tvc.smil/chunklist_w1797655187_b1703000.m3u8
-#EXTINF:-1,Ю 
-http://hlstv.brn.211.ru/239.211.211.29/stream.m3u8
-#EXTINF:-1,Калейдоскоп ТВ 
-http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
-#EXTINF:-1,Че
-http://195.88.16.15/che/index.m3u8
-#EXTINF:-1,НТВ Mир
-http://rus1.canlitvplayer.com/ntvmir/tracks-v1a1/mono.m3u8
-#EXTINF:-1,СТС Мир
-http://94.251.20.53:81/udp/239.54.5.170:1234
-#EXTINF:-1,ОТР
-http://195.88.16.15/otr/index.m3u8
-#EXTINF:-1,8 Канал 
-http://195.88.16.15/8kanal/index.m3u8
-#EXTINF:-1,Перец
-http://109.248.236.41:4433/udp/238.1.1.102:1234
-#EXTINF:-1,Новый мир
-http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
-#EXTINF:0,1+1 Int.
-http://stream2g03-f23.ovva.tv/227022/smil:227022.smil/chunklist_b2500000.m3u8
-#EXTINF:-1,Україна 
-http://193.151.107.126/ukraina/index.m3u8
-#EXTINF:0,112 Украина HD
-http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-#EXTINF:0,NewsOne HD
-http://77.120.104.64/hls/newsone-hd/stream.m3u8
-#EXTINF:0,5 Канал
-http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8
-#EXTINF:-1,СТБ
-http://85.132.71.6/ua/stb/index.m3u8 
-#EXTINF:-1,Discovery Channel HD
-http://82.200.127.58:8080/udp/239.54.7.86:1224
-#EXTINF:0,Discovery Science HD
-http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
-#EXTINF:0,DTX HD
-#EXTVLCOPT:network-caching=1000
-http://185.10.211.10:9153/play/a01c
-#EXTINF:0,ID HD
-#EXTVLCOPT:network-caching=1000
-http://185.10.211.10:9153/play/a00q
-#EXTINF:-1,National Geographic HD 
-http://46.8.159.250:44489/channel62.m3u8
-#EXTINF:0,Nat Geo Wild HD 
-http://195.88.16.15/natgeowildhd/index.m3u8
-#EXTINF:0,SONY HD
-#EXTVLCOPT:network-caching=1000
-http://185.10.211.10:9153/play/a003
-#EXTINF:0,Viasat Explore HD
-#EXTVLCOPT:network-caching=1000
-http://185.10.211.10:9153/play/a01j
-#EXTINF:0,Viasat History HD
-#EXTVLCOPT:network-caching=1000
-http://185.10.211.10:9153/play/a00o
-#EXTINF:0,Travel Adventure HD
-#EXTVLCOPT:network-caching=1000
-http://185.10.211.10:9153/play/a01i
-#EXTINF:0,Планета HD 
-http://195.88.16.15/iqhd/index.m3u8
-#EXTINF:0,Outdoor Channel HD 
-http://195.88.16.15/outdoorhd/index.m3u8
-#EXTINF:-1,NANO HD
-http://nano.teleservice.su:8080/hls/nanohd.m3u8
-#EXTINF:0,Охотник и рыболов
-http://50.7.136.155:8081/ohotnik-i-rybolov/index.m3u8
-#EXTINF:0,Viasat Explore 
-http://46.8.159.250:44489/channel100.m3u8
-#EXTINF:0,Viasat History 
-http://46.8.159.250:44489/channel101.m3u8
-#EXTINF:0,Viasat Nature 
-http://46.8.159.250:44489/channel98.m3u8
-#EXTINF:0,Viasat Sport 
-http://46.8.159.250:44488/channel103.m3u8
-#EXTINF:1.14938,HD Media
-http://62.76.26.81:8081/hdmedia/hdmedia_pay/playlist.m3u8
-#EXTINF:-1,Большая Азия HD
-http://now2.eaglecdn.com/stream_transcoded_1080/bigasia_test.m3u8
-#EXTINF:0 type="stream" channelId="67", TLC
-http://195.88.16.15/tlc/index.m3u8
-#EXTINF:-1,Еда HD
-http://195.88.16.15/edahd/index.m3u8
-#EXTINF:0,Food network HD
-#EXTVLCOPT:network-caching=1000
-http://185.10.211.10:9153/play/a01d
-#EXTINF:0,VIP Comedy HD
-http://46.8.159.250:44488/channel58.m3u8
-#EXTINF:0,VIP Megahit HD
-http://46.8.159.250:44489/channel130.m3u8
-#EXTINF:0,VIP Premium HD
-http://46.8.159.250:44489/channel90.m3u8
-#EXTINF:0,TV1000 HD
-#EXTVLCOPT:network-caching=1000
-http://185.10.211.10:9153/play/a029
-#EXTINF:0,TV1000 Action HD 
-#EXTVLCOPT:network-caching=1000
-http://185.10.211.10:9153/play/a00k
-#EXTINF:0,TV1000 Русское кино HD
-#EXTVLCOPT:network-caching=1000
-http://185.10.211.10:9153/play/a00g
-#EXTINF:0,Дом Кино Премиум HD
-http://50.7.136.155:8081/dom-kino-premium/index.m3u8
-#EXTINF:0,Кинопремьера HD
-http://50.7.136.155:8081/kinopremera/tracks-1,2/index.m3u8
-#EXTINF:0,Остросюжетное HD
-http://50.7.136.155:8081/ostrosjuzhetnoe/index.m3u8
-#EXTINF:0,Наш Детектив HD
-http://50.7.136.155:8081/nash-detektiv/index.m3u8
-#EXTINF:0,Наш Кинороман HD
-http://50.7.136.155:8081/nash-kinoroman/index.m3u8
-#EXTINF:0,FilmUADrama HD
-#EXTVLCOPT:network-caching=1000
-http://185.10.211.10:9153/play/a03z
-#EXTINF:0,Paramount Comedy HD
-#EXTVLCOPT:network-caching=1000
-http://185.10.211.10:9153/play/a00u
-#EXTINF:0,Paramount Channel HD
-#EXTVLCOPT:network-caching=1000
-http://185.10.211.10:9153/play/a00m
-#EXTINF:0,Русский роман HD
-#EXTVLCOPT:network-caching=1000
-http://185.10.211.10:9153/play/a001
-#EXTINF:0,Bollywood HD
-http://81.25.234.43:8083/tv/bollywoodHD/playlist.m3u8
-#EXTINF:0,Кинопоказ HD1
-http://50.7.136.155:8081/kinopokaz1/index.m3u8
-#EXTINF:0,Кинопоказ HD2
-http://50.7.136.155:8081/kinopokaz2/index.m3u8
-#EXTINF:0,МИР PREMIUM
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:0,Кинозал Зарубежная киноклассика
-http://streams.tv.mts.by/zarubezhnaya_classica/1/index.m3u8
-#EXTINF:0,Кинозал Советская киноклассика
-http://streams.tv.mts.by/soviet_classic/1/index.m3u8
-#EXTINF:0,Кинозал Индийская киноклассика
-http://streams.tv.mts.by/indiyskaya_classica/1/index.m3u8
-#EXTINF:0,Кинозал Классика Голливуда
-http://streams.tv.mts.by/hollywood_classic/1/index.m3u8
-#EXTINF:-1,Видеокассета 90-х часть1
-http://188.138.75.210:5566/90-1/index.m3u8?auth=90:90
-#EXTINF:-1,Видеокассета 90-х часть2
-http://188.138.75.210:5566/90-2/index.m3u8?auth=90:90
-#EXTINF:-1,Видеокассета 90-х часть3
-http://188.138.75.210:5566/90-3/index.m3u8?auth=90:90
-#EXTINF:0.882367,КиноМеню HD
-http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
-#EXTINF:0,Русский роман
-http://50.7.136.155:8081/russkiy-roman/index.m3u8
-#EXTINF:0,Русский бестселлер
-http://50.7.136.155:8081/russkiy-bestseller/index.m3u8
-#EXTINF:0,Русский детектив
-http://50.7.136.155:8081/russkiy-detektiv/index.m3u8
-#EXTINF:0,Кинокомедия
-http://50.7.136.155:8081/kinokomediya/index.m3u8
-#EXTINF:0,Киномикс
-http://50.7.136.155:8081/kinomiks/index.m3u8
-#EXTINF:0,Кинопремьера 
-http://46.8.159.250:44489/channel105.m3u8
-#EXTINF:0,Киносвидание 
-http://46.8.159.250:44489/channel106.m3u8
-#EXTINF:0,Киносемья 
-http://46.8.159.250:44489/channel83.m3u8
-#EXTINF:0,Мужское кино
-http://50.7.136.155:8081/muzhskoe-kino/index.m3u8
-#EXTINF:0,Наше новое кино
-http://50.7.136.155:8081/nashe-novoe-kino/index.m3u8
-#EXTINF:0,Кинохит 
-http://50.7.136.155:8081/kinohit/index.m3u8
-#EXTINF:0,Дом кино
-http://50.7.136.155:8081/domkino/index.m3u8
-#EXTINF:0,Родное кино
-http://50.7.136.155:8081/rodnoe-kino/index.m3u8
-#EXTINF:0,FOX
-http://195.88.16.15/fox/index.m3u8
-#EXTINF:0,FOX HD 
-http://195.88.16.15/foxhd/index.m3u8
-#EXTINF:0,Fox life
-http://195.88.16.15/foxlife/index.m3u8
-#EXTINF:0,Fox life HD 
-http://195.88.16.15/foxlifehd/index.m3u8
-#EXTINF:0,TV1000 
-http://ott-cdn.ucom.am/s90/index.m3u8
-#EXTINF:0,TV1000 Action 
-http://ott-cdn.ucom.am/s91/index.m3u8
-#EXTINF:0,TV1000 Русское кино
-http://ott-cdn.ucom.am/s95/index.m3u8 
-#EXTINF:-1,Amedia_Premium HD
-http://109.248.236.41:4433/udp/238.1.1.71:1234
-#EXTINF:1,Amedia Hit HD
-http://109.248.236.41:4433/udp/238.1.1.96:1234
-#EXTINF:-1,А1 HD
-http://109.248.236.41:4433/udp/238.1.1.97:1234
-#EXTINF:0,КиноЗаказ 1
-https://hls.goodgame.ru/hls/114023.m3u8
-#EXTINF:0,КиноЗаказ 2
-http://hls.goodgame.ru/hls/12949.m3u8
-#EXTINF:0,КиноЗаказ 3
-http://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1,STR TV HD
-http://hls.goodgame.ru/hls/130048.m3u8
-#EXTINF:-1,Cinema (Космос ТВ)
-http://streamer.cosmostv.by/streaming/cinema_cosmostv/604/copy/playlist.m3u8
-#EXTINF:-1,Bollywood HD
-http://81.25.234.43:8083/tv/bollywoodHD/playlist.m3u8
-#EXTINF:-1,Promo1
-https://kiev1-cdn.lanet.tv/tv/2001.m3u8
-#EXTINF:-1,Киноменю HD
-http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
-#EXTINF:-1,NHK World
-http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_2100.m3u8
-#EXTINF:0,Eurosport 1 
-http://46.8.159.250:44489/channel73.m3u8
-#EXTINF:0,Eurosport 2 
-http://46.8.159.250:44489/channel74.m3u8
-#EXTINF:0,МАТЧ! ИГРА HD 
-http://195.88.16.15/matchigrahd/index.m3u8
-#EXTINF:0,Матч!
-http://46.8.159.250:44489/channel48.m3u8
-#EXTINF:0,Матч! Арена
-http://46.8.159.250:44489/channel115.m3u8
-#EXTINF:0,Матч! Боец
-http://46.8.159.250:44489/channel113.m3u8
-#EXTINF:0,Матч! Игра
-http://46.8.159.250:44489/channel114.m3u8
-#EXTINF:0,Матч! Наш спорт
-http://46.8.159.250:44489/channel111.m3u8
-#EXTINF:0,Матч! Планета
-http://46.8.159.250:44489/channel36.m3u8
-#EXTINF:0 type="stream" channelId="-1", МАТЧ! АРЕНА HD
-http://91.192.168.242:6001/play/a023/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", Матч! Футбол 1 HD
-http://persik.by/stream/3903/293564/10266.m3u8
-#EXTINF:0 type="stream" channelId="-1", Матч! Футбол 2 HD
-http://persik.by/stream/3903/293564/10267.m3u8
-#EXTINF:0 type="stream" channelId="-1", Матч! Футбол 3 HD
-http://persik.by/stream/3903/293564/10268.m3u8
-#EXTINF:-1,Беларусь 5 Спорт
-http://95.46.208.76:9898/belarus5
-#EXTINF:-1,КХЛ ТВ
-http://195.88.16.15/khl/index.m3u8
-#EXTINF:0,КХЛ HD 
-http://195.88.16.15/khlhd/index.m3u8
-#EXTINF:-1,Nickelodeon HD
-http://195.88.16.15/nickelodeonhd/index.m3u8
-#EXTINF:-1,Карусель
-http://195.88.16.15/karusel/index.m3u8
-#EXTINF:-1,TiJi
-http://195.88.16.15/tiji/index.m3u8
-#EXTINF:-1,Мульт
-http://195.88.16.15/mult/index.m3u8
-#EXTINF:-1,Канал Disney 
-http://195.88.16.15/disney/index.m3u8
-#EXTINF:-1,Смайлик ТВ HD
-http://109.68.190.192:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
-#EXTINF:-1,СКАЗКИ ЗАЙКИ
-http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
-#EXTINF:-1,Мульт и Музыка
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:strana.smil/playlist.m3u8
-#EXTINF:-1,2x2
-http://195.88.16.15/2x2/index.m3u8
-#EXTINF:-1,Мультимания
-http://195.88.16.15/multimania/index.m3u8
-#EXTINF:-1,Малятко ТВ
-http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?codec=mpeg4&app=playlist
-#EXTINF:-1,Mama
-http://195.88.16.15/mama/index.m3u8
-#EXTINF:-1,SC-TV
-https://hls.goodgame.ru/hls/61358.m3u8
-#EXTINF:-1,Мамонтенок HD
-http://82.193.71.93/MamontLV/video.m3u8
-#EXTINF:-1,NR1 4K (Fake)
-http://nr1hls.radyotvonline.com/nr14k/nr14k_hd/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", HIT TV HD
-http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
-#EXTINF:0 type="stream" channelId="-1", Открытый HD
-http://77.232.128.68/bks.m3u8
-#EXTINF:0 type="stream" channelId="1476", 1HD
-http://cdn-01.bonus-tv.ru:8080/1HDmusic/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", NRJ Hits HD
-http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", ID Fashion HD
-http://95.67.8.22/hls/idfashion/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", RU TV HD
-http://live-rmg.cdnvideo.ru/rmg/rutv_hd.sdp/playlist.m3u8
-#EXTINF:0,1 Music Channel
-http://stream.1music.hu/stream/1music.m3u8
-#EXTINF:0,BIM TV
-http://av.bimradio.ru/hls/video2/index.m3u8
-#EXTINF:0,М1
-http://live.m2.tv/hls/stream.m3u8
-#EXTINF:0,М2
-http://live.m2.tv/hls3/stream.m3u8
-#EXTINF:0,Шансон ТВ
-http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
-#EXTINF:0,MusicBox Gold
-http://195.88.16.15/musicbox/index.m3u8
-#EXTINF:0,MusicBox UA
-http://212.26.132.86/hls/mb_ua_2500.m3u8
-#EXTINF:0,MUSIC CHOICE
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1,Retro Music Tv 
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-#EXTINF:-1,NRJ Hits
-http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
-#EXTINF:0,Kronehit HD
-https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:0,Muzzone
-http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
+#EXTINF:0, channel M-71 (1)(0) (ru-element.ru/iptv)-0
+http://ru-element.ru/playlist/playlist.php?ch=0&d=20.09.18
+#EXTINF:0,Rock-Fm (ru-element.ru/iptv)-1
+http://ru-element.ru/playlist/playlist.php?ch=1&d=20.09.18
+#EXTINF:0,Юмор FM (ru-element.ru/iptv)-2
+http://ru-element.ru/playlist/playlist.php?ch=2&d=20.09.18
+#EXTINF:0,Радио Рекорд (ru-element.ru/iptv)-3
+http://ru-element.ru/playlist/playlist.php?ch=3&d=20.09.18
+#EXTINF:0,Радио Рекорд Tranc (ru-element.ru/iptv)-4
+http://ru-element.ru/playlist/playlist.php?ch=4&d=20.09.18
+#EXTINF:0,Дискотека 90 (ru-element.ru/iptv)-5
+http://ru-element.ru/playlist/playlist.php?ch=5&d=20.09.18
+#EXTINF:0,Гоп ФМ (ru-element.ru/iptv)-6
+http://ru-element.ru/playlist/playlist.php?ch=6&d=20.09.18
+#EXTINF:0,Медляк ФМ (ru-element.ru/iptv)-7
+http://ru-element.ru/playlist/playlist.php?ch=7&d=20.09.18
+#EXTINF:0,Радио Юность (ru-element.ru/iptv)-8
+http://ru-element.ru/playlist/playlist.php?ch=8&d=20.09.18
+#EXTINF:0,Наше радио (ru-element.ru/iptv)-9
+http://ru-element.ru/playlist/playlist.php?ch=9&d=20.09.18
+#EXTINF:0,Европа + (ru-element.ru/iptv)-10
+http://ru-element.ru/playlist/playlist.php?ch=10&d=20.09.18
+#EXTINF:0,Ретро Фм  (ru-element.ru/iptv)-11
+http://ru-element.ru/playlist/playlist.php?ch=11&d=20.09.18
+#EXTINF:0,Маяк Фм  (ru-element.ru/iptv)-12
+http://ru-element.ru/playlist/playlist.php?ch=12&d=20.09.18
+#EXTINF:0,Радио NRJ  (ru-element.ru/iptv)-13
+http://ru-element.ru/playlist/playlist.php?ch=13&d=20.09.18
+#EXTINF:0,Радио Шансон (ru-element.ru/iptv)-14
+http://ru-element.ru/playlist/playlist.php?ch=14&d=20.09.18
+#EXTINF:0,Русское Радио (ru-element.ru/iptv)-15
+http://ru-element.ru/playlist/playlist.php?ch=15&d=20.09.18
+#EXTINF:0,АвтоРадио  (ru-element.ru/iptv)-16
+http://ru-element.ru/playlist/playlist.php?ch=16&d=20.09.18
+#EXTINF:0,Дорожное радио (ru-element.ru/iptv)-17
+http://ru-element.ru/playlist/playlist.php?ch=17&d=20.09.18
+#EXTINF:0,Радио Дача (ru-element.ru/iptv)-18
+http://ru-element.ru/playlist/playlist.php?ch=18&d=20.09.18
+#EXTINF:0,Радио SEX FM  (ru-element.ru/iptv)-19
+http://ru-element.ru/playlist/playlist.php?ch=19&d=20.09.18
+#EXTINF:0,Радио Спорт  (ru-element.ru/iptv)-20
+http://ru-element.ru/playlist/playlist.php?ch=20&d=20.09.18
+#EXTINF:0,Радио Top Hits (ru-element.ru/iptv)-21
+http://ru-element.ru/playlist/playlist.php?ch=21&d=20.09.18
+#EXTINF:0,Радио Dance Hits (ru-element.ru/iptv)-22
+http://ru-element.ru/playlist/playlist.php?ch=22&d=20.09.18
+#EXTINF:0,Радио Club Sounds (ru-element.ru/iptv)-23
+http://ru-element.ru/playlist/playlist.php?ch=23&d=20.09.18
+#EXTINF:0,Радио DJ Mixes (ru-element.ru/iptv)-24
+http://ru-element.ru/playlist/playlist.php?ch=24&d=20.09.18
+#EXTINF:0,Classic Vocal Trance (ru-element.ru/iptv)-25
+http://ru-element.ru/playlist/playlist.php?ch=25&d=20.09.18
+#EXTINF:0,Electro House (ru-element.ru/iptv)-26
+http://ru-element.ru/playlist/playlist.php?ch=26&d=20.09.18
+#EXTINF:0,Радио Urban Jamz (ru-element.ru/iptv)-27
+http://ru-element.ru/playlist/playlist.php?ch=27&d=20.09.18
+#EXTINF:0,Радио Christian (ru-element.ru/iptv)-28
+http://ru-element.ru/playlist/playlist.php?ch=28&d=20.09.18
+#EXTINF:0,Радио Romantica (ru-element.ru/iptv)-29
+http://ru-element.ru/playlist/playlist.php?ch=29&d=20.09.18
+#EXTINF:0,Радио New Age (ru-element.ru/iptv)-30
+http://ru-element.ru/playlist/playlist.php?ch=30&d=20.09.18
+#EXTINF:0,Vocal New Age (ru-element.ru/iptv)-31
+http://ru-element.ru/playlist/playlist.php?ch=31&d=20.09.18
+#EXTINF:0,Радио PsyChill (ru-element.ru/iptv)-32
+http://ru-element.ru/playlist/playlist.php?ch=32&d=20.09.18
+#EXTINF:0,Радио Vocal Chillout  (ru-element.ru/iptv)-33
+http://ru-element.ru/playlist/playlist.php?ch=33&d=20.09.18
+#EXTINF:0,Радио Chillout (ru-element.ru/iptv)-34
+http://ru-element.ru/playlist/playlist.php?ch=34&d=20.09.18
+#EXTINF:0,Радио Chillout Dreams (ru-element.ru/iptv)-35
+http://ru-element.ru/playlist/playlist.php?ch=35&d=20.09.18
+#EXTINF:0,Space Dreams (ru-element.ru/iptv)-36
+http://ru-element.ru/playlist/playlist.php?ch=36&d=20.09.18
+#EXTINF:0,Радио Relaxation (ru-element.ru/iptv)-37
+http://ru-element.ru/playlist/playlist.php?ch=37&d=20.09.18
+#EXTINF:0,Cosmic D.tempo  (ru-element.ru/iptv)-38
+http://ru-element.ru/playlist/playlist.php?ch=38&d=20.09.18
+#EXTINF:0,Love Music (ru-element.ru/iptv)-39
+http://ru-element.ru/playlist/playlist.php?ch=39&d=20.09.18
+#EXTINF:0,Classical Guitar (ru-element.ru/iptv)-40
+http://ru-element.ru/playlist/playlist.php?ch=40&d=20.09.18
+#EXTINF:0,Solo Piano (ru-element.ru/iptv)-41
+http://ru-element.ru/playlist/playlist.php?ch=41&d=20.09.18
+#EXTINF:0,Mostly Classical (ru-element.ru/iptv)-42
+http://ru-element.ru/playlist/playlist.php?ch=42&d=20.09.18
+#EXTINF:0,Soft Rock (ru-element.ru/iptv)-43
+http://ru-element.ru/playlist/playlist.php?ch=43&d=20.09.18
+#EXTINF:0,Alternative Rock (ru-element.ru/iptv)-44
+http://ru-element.ru/playlist/playlist.php?ch=44&d=20.09.18
+#EXTINF:0,Modern Rock (ru-element.ru/iptv)-45
+http://ru-element.ru/playlist/playlist.php?ch=45&d=20.09.18
+#EXTINF:0,Hard Rock (ru-element.ru/iptv)-46
+http://ru-element.ru/playlist/playlist.php?ch=46&d=20.09.18
+#EXTINF:0,Metal (ru-element.ru/iptv)-47
+http://ru-element.ru/playlist/playlist.php?ch=47&d=20.09.18
+#EXTINF:0,Pop Punk (ru-element.ru/iptv)-48
+http://ru-element.ru/playlist/playlist.php?ch=48&d=20.09.18
+#EXTINF:0,Все копы-ублюдкизагрузка10с (ru-element.ru/iptv)-49
+http://ru-element.ru/playlist/playlist.php?ch=49&d=20.09.18
+#EXTINF:0,Дружинники  загрузка15с (ru-element.ru/iptv)-50
+http://ru-element.ru/playlist/playlist.php?ch=50&d=20.09.18
+#EXTINF:0,Порочная страстьзагрузка 10 сек (ru-element.ru/iptv)-51
+http://ru-element.ru/playlist/playlist.php?ch=51&d=20.09.18
+#EXTINF:0,Спецотряд Призрак:Загр15 сек (ru-element.ru/iptv)-52
+http://ru-element.ru/playlist/playlist.php?ch=52&d=20.09.18
+#EXTINF:0,Вспомнить всё2012 загрузка15с (ru-element.ru/iptv)-53
+http://ru-element.ru/playlist/playlist.php?ch=53&d=20.09.18
+#EXTINF:0,Эволюция Борна загрузка15с (ru-element.ru/iptv)-54
+http://ru-element.ru/playlist/playlist.php?ch=54&d=20.09.18
+#EXTINF:0,Параллельные миры загрузка15с (ru-element.ru/iptv)-55
+http://ru-element.ru/playlist/playlist.php?ch=55&d=20.09.18
+#EXTINF:0,Побег загрузка15с (ru-element.ru/iptv)-56
+http://ru-element.ru/playlist/playlist.php?ch=56&d=20.09.18
+#EXTINF:0,Неудержимые 2.Загру15 сек (ru-element.ru/iptv)-57
+http://ru-element.ru/playlist/playlist.php?ch=57&d=20.09.18
+#EXTINF:0,Медальонзагрузка15с (ru-element.ru/iptv)-58
+http://ru-element.ru/playlist/playlist.php?ch=58&d=20.09.18
+#EXTINF:0,Прометейзагруз 15 сек (ru-element.ru/iptv)-59
+http://ru-element.ru/playlist/playlist.php?ch=59&d=20.09.18
+#EXTINF:0,Белоснежка и охотник.Загр15сек (ru-element.ru/iptv)-60
+http://ru-element.ru/playlist/playlist.php?ch=60&d=20.09.18
+#EXTINF:0,Седьмая группазагрузка15с (ru-element.ru/iptv)-61
+http://ru-element.ru/playlist/playlist.php?ch=61&d=20.09.18
+#EXTINF:0,Планета бурь (ru-element.ru/iptv)-62
+http://ru-element.ru/playlist/playlist.php?ch=62&d=20.09.18
+#EXTINF:0,Олигарх (ru-element.ru/iptv)-63
+http://ru-element.ru/playlist/playlist.php?ch=63&d=20.09.18
+#EXTINF:0,Царь (ru-element.ru/iptv)-64
+http://ru-element.ru/playlist/playlist.php?ch=64&d=20.09.18
+#EXTINF:0,Зимняя жара (ru-element.ru/iptv)-65
+http://ru-element.ru/playlist/playlist.php?ch=65&d=20.09.18
+#EXTINF:0,Остров сокровищ1. (ru-element.ru/iptv)-66
+http://ru-element.ru/playlist/playlist.php?ch=66&d=20.09.18
+#EXTINF:0,Остров сокровищ2. (ru-element.ru/iptv)-67
+http://ru-element.ru/playlist/playlist.php?ch=67&d=20.09.18
+#EXTINF:0,Ехали два шофера (ru-element.ru/iptv)-68
+http://ru-element.ru/playlist/playlist.php?ch=68&d=20.09.18
+#EXTINF:0,Перегон (ru-element.ru/iptv)-69
+http://ru-element.ru/playlist/playlist.php?ch=69&d=20.09.18
+#EXTINF:0,Монгол (ru-element.ru/iptv)-70
+http://ru-element.ru/playlist/playlist.php?ch=70&d=20.09.18
+#EXTINF:0,Мама не горюй 2 (ru-element.ru/iptv)-71
+http://ru-element.ru/playlist/playlist.php?ch=71&d=20.09.18
+#EXTINF:0,Кукушка (ru-element.ru/iptv)-72
+http://ru-element.ru/playlist/playlist.php?ch=72&d=20.09.18
+#EXTINF:0,Человек амфибия (ru-element.ru/iptv)-73
+http://ru-element.ru/playlist/playlist.php?ch=73&d=20.09.18
+#EXTINF:0,Дело Румянцева (ru-element.ru/iptv)-74
+http://ru-element.ru/playlist/playlist.php?ch=74&d=20.09.18
+#EXTINF:0,Максим Перепелица (ru-element.ru/iptv)-75
+http://ru-element.ru/playlist/playlist.php?ch=75&d=20.09.18
+#EXTINF:0,Полосатый Рейс (ru-element.ru/iptv)-76
+http://ru-element.ru/playlist/playlist.php?ch=76&d=20.09.18
+#EXTINF:0,Особенности Нац рыбалки (ru-element.ru/iptv)-77
+http://ru-element.ru/playlist/playlist.php?ch=77&d=20.09.18
+#EXTINF:0,Каникулы строгого режима (ru-element.ru/iptv)-78
+http://ru-element.ru/playlist/playlist.php?ch=78&d=20.09.18
+#EXTINF:0,Адмирал (ru-element.ru/iptv)-79
+http://ru-element.ru/playlist/playlist.php?ch=79&d=20.09.18
+#EXTINF:0,Свадьба в Малиновке (ru-element.ru/iptv)-80
+http://ru-element.ru/playlist/playlist.php?ch=80&d=20.09.18
+#EXTINF:0,Ирония Судьбы 2 (ru-element.ru/iptv)-81
+http://ru-element.ru/playlist/playlist.php?ch=81&d=20.09.18
+#EXTINF:0,Блондинка за углом (ru-element.ru/iptv)-82
+http://ru-element.ru/playlist/playlist.php?ch=82&d=20.09.18
+#EXTINF:0,Мама не горюй (ru-element.ru/iptv)-83
+http://ru-element.ru/playlist/playlist.php?ch=83&d=20.09.18
+#EXTINF:0,Хоттабыч (ru-element.ru/iptv)-84
+http://ru-element.ru/playlist/playlist.php?ch=84&d=20.09.18
+#EXTINF:0,Новог приключ Маши и Вити (ru-element.ru/iptv)-85
+http://ru-element.ru/playlist/playlist.php?ch=85&d=20.09.18
+#EXTINF:0,Собачье сердце. Серия 1 (ru-element.ru/iptv)-86
+http://ru-element.ru/playlist/playlist.php?ch=86&d=20.09.18
+#EXTINF:0,Собачье сердце. Серия 2 (ru-element.ru/iptv)-87
+http://ru-element.ru/playlist/playlist.php?ch=87&d=20.09.18
+#EXTINF:0,Умри со мной (ru-element.ru/iptv)-88
+http://ru-element.ru/playlist/playlist.php?ch=88&d=20.09.18
+#EXTINF:0,Бумер (ru-element.ru/iptv)-89
+http://ru-element.ru/playlist/playlist.php?ch=89&d=20.09.18
+#EXTINF:0,Брат 2 (ru-element.ru/iptv)-90
+http://ru-element.ru/playlist/playlist.php?ch=90&d=20.09.18
+#EXTINF:0,Жмурки (ru-element.ru/iptv)-91
+http://ru-element.ru/playlist/playlist.php?ch=91&d=20.09.18
+#EXTINF:0,Ванька Грозный (ru-element.ru/iptv)-92
+http://ru-element.ru/playlist/playlist.php?ch=92&d=20.09.18
+#EXTINF:0,Сказ про Федота-стрельца (ru-element.ru/iptv)-93
+http://ru-element.ru/playlist/playlist.php?ch=93&d=20.09.18
+#EXTINF:0,Голый космос (ru-element.ru/iptv)-94
+http://ru-element.ru/playlist/playlist.php?ch=94&d=20.09.18
+#EXTINF:0,Ночная смена (Стивен Кинг) (ru-element.ru/iptv)-95
+http://ru-element.ru/playlist/playlist.php?ch=95&d=20.09.18
+#EXTINF:0,Ад каннибалов (ru-element.ru/iptv)-96
+http://ru-element.ru/playlist/playlist.php?ch=96&d=20.09.18
+#EXTINF:0,Кровь и черные кружева (ru-element.ru/iptv)-97
+http://ru-element.ru/playlist/playlist.php?ch=97&d=20.09.18
+#EXTINF:0,Город Зомби (ru-element.ru/iptv)-98
+http://ru-element.ru/playlist/playlist.php?ch=98&d=20.09.18
+#EXTINF:0,Зеленый ад (ru-element.ru/iptv)-99
+http://ru-element.ru/playlist/playlist.php?ch=99&d=20.09.18
+#EXTINF:0,Противостояние (Стивен Кинг) (ru-element.ru/iptv)-100
+http://ru-element.ru/playlist/playlist.php?ch=100&d=20.09.18
+#EXTINF:0,Обитель зла 4 (ru-element.ru/iptv)-101
+http://ru-element.ru/playlist/playlist.php?ch=101&d=20.09.18
