@@ -1,22 +1,268 @@
 ﻿#EXTM3U
 
-#EXTINF:0 tvg-logo="http://495100.ssl.1c-bitrix-cdn.ru/bitrix/templates/template-custom/images/channels/belarus-1.png?153440702728150" group-title="Общественные"  tvg-name="https://m.tv.yandex.ru/149/channels/696" ,Беларусь 1
-http://178.124.183.19/hls/M52YG9EVYD/bw2000000/playlist.m3u8?version=2
-#EXTINF:0 tvg-logo="http://495100.ssl.1c-bitrix-cdn.ru/bitrix/templates/template-custom/images/channels/belarus-2.png?153440702726901" group-title="Общественные"  tvg-name="https://m.tv.yandex.ru/149/channels/299" ,Беларусь 2
-http://178.124.141.170:1935/live/BT2_qwer.stream/playlist.m3u8?hash=29f659783bf0df49577ae9ee05c237e2
-#EXTINF:0 tvg-logo="http://495100.ssl.1c-bitrix-cdn.ru/bitrix/templates/template-custom/images/channels/belarus-3.png?153440702727535" group-title="Общественные"  tvg-name="https://m.tv.yandex.ru/149/channels/1014" ,Беларусь 3
-http://178.124.141.167:1935/liveedge/BT3_j3s1_360p.stream/playlist.m3u8?hash=29f659783bf0df49577ae9ee05c237e2
-#EXTINF:0 tvg-logo="http://495100.ssl.1c-bitrix-cdn.ru/bitrix/templates/template-custom/images/channels/belarus-5.png?153440702727059" group-title="Общественные"  tvg-name="https://m.tv.yandex.ru/149/channels/1050" ,Беларусь 5
-http://178.124.183.13/hls/JRKVSUPCP8/bw2000000/playlist.m3u8?version=2
-#EXTINF:0 tvg-logo="http://495100.ssl.1c-bitrix-cdn.ru/bitrix/templates/template-custom/images/channels/belarus-24.png?153440702727185" group-title="Общественные"  tvg-name="https://m.tv.yandex.by/149/channels/248" ,Беларусь 24
-https://stream.hoster.by/belarus24/live/playlist.m3u8
-#EXTINF:0 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/rtrbelarus.png" group-title="Региональные"  tvg-name="https://m.tv.yandex.ru/149/channels/652" ,РТР-Беларусь
-http://178.124.141.167:1935/liveedge/RTR_k2s1_360p.stream/playlist.m3u8?hash=29f659783bf0df49577ae9ee05c237e2
-#EXTINF:0 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/82637188694a3aa89d6cf201c08f1a33.png" group-title="Региональные"  tvg-name="https://m.tv.yandex.ru/149/channels/484" ,ОНТ
-http://178.124.141.167:1935/liveedge/TEST_131_3_tu5p_360p.stream/playlist.m3u8?hash=29f659783bf0df49577ae9ee05c237e2
-#EXTINF:0 tvg-name="https://m.tv.yandex.ru/149/channels/414" tvg-logo="http://tvbox.by/img/channels/stv-682.png",СТВ
-http://178.124.141.171:1935/Archive/STV_SD_360p.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/ntv_belarus.png" group-title="Общественные"  tvg-name="https://m.tv.yandex.ru/149/channels/440" ,НТВ-Беларусь
-http://91.149.172.100:80/channel?id=49&u=demo&p=demo
-#EXTINF:0 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/mir.png" group-title="Новости"  tvg-name="http://m.tv.yandex.ru/213/channels/726" ,Мир
-http://91.149.172.100:80/channel?id=51&u=demo&p=demo
+
+#EXTINF:0,Беларусь 1
+http://persik.by/stream/7985/364494/118.m3u8
+#EXTINF:0,МИР
+http://persik.tv/stream/7985/364494/10305.m3u8
+#EXTINF:0,ОНТ
+http://persik.by/stream/7985/364494/111.m3u8
+#EXTINF:0,СТВ
+http://persik.by/stream/7985/364494/115.m3u8
+#EXTINF:0,МИР
+http://persik.by/stream/7985/364494/176.m3u8
+#EXTINF:0,РТР-Беларусь
+http://persik.by/stream/7985/364494/700.m3u8
+#EXTINF:0,НТВ-Беларусь
+http://persik.by/stream/7985/364494/699.m3u8
+#EXTINF:0,Беларусь 2
+http://persik.by/stream/7985/364494/148.m3u8
+#EXTINF:0,Беларусь 3
+http://persik.by/stream/7985/364494/883.m3u8
+#EXTINF:0,Беларусь 5
+http://persik.by/stream/7985/364494/932.m3u8
+#EXTINF:0,1HD Music Television
+http://persik.by/stream/7985/364494/10423.m3u8
+#EXTINF:0,365 дней ТВ
+http://persik.tv/stream/7985/364494/279.m3u8
+#EXTINF:0,Bridge TV
+http://persik.by/stream/7985/364494/409.m3u8
+#EXTINF:0,Bridge TV Русский хит
+http://persik.by/stream/7985/364494/668.m3u8
+#EXTINF:0,CBS Reality
+http://persik.by/stream/7985/364494/10229.m3u8
+#EXTINF:0,Euronews
+http://persik.by/stream/7985/364494/37.m3u8
+#EXTINF:0,Euronews (Eng)
+http://persik.by/stream/7985/364494/10265.m3u8
+#EXTINF:0,Europa Plus TV
+http://persik.by/stream/7985/364494/682.m3u8
+#EXTINF:0,FOX Russia
+http://persik.by/stream/7985/364494/10234.m3u8
+#EXTINF:0,HD Life
+http://persik.tv/stream/7985/364494/10295.m3u8
+#EXTINF:0,History
+http://persik.by/stream/7985/364494/902.m3u8
+#EXTINF:0,JimJam
+http://persik.by/stream/7985/364494/454.m3u8
+#EXTINF:0,National Geographic
+http://persik.by/stream/7985/364494/10210.m3u8
+#EXTINF:0,National Geographic HD
+http://persik.tv/stream/7985/364494/10243.m3u8
+#EXTINF:0,Nickelodeon
+http://persik.by/stream/7985/364494/45.m3u8
+#EXTINF:0,Outdoor Сhannel
+http://persik.by/stream/7985/364494/10246.m3u8
+#EXTINF:0,Promo
+http://persik.tv/stream/7985/364494/10030.m3u8
+#EXTINF:0,Ru.TV
+http://persik.by/stream/7985/364494/10213.m3u8
+#EXTINF:0,Russian MusicBox
+http://persik.by/stream/7985/364494/411.m3u8
+#EXTINF:0,Setanta Sports Eurasia
+http://persik.by/stream/7985/364494/10313.m3u8
+#EXTINF:0,Setanta Sports Eurasia +
+http://persik.by/stream/7985/364494/10315.m3u8
+#EXTINF:0,Setanta Sports Eurasia + HD
+http://persik.by/stream/7985/364494/10316.m3u8
+#EXTINF:0,Setanta Sports Eurasia HD
+http://persik.by/stream/7985/364494/10314.m3u8
+#EXTINF:0,START Promo
+http://persik.tv/stream/7985/364494/10432.m3u8
+#EXTINF:0,STV
+http://persik.tv/stream/7985/364494/384.m3u8
+#EXTINF:0,THT Music
+http://persik.by/stream/7985/364494/10247.m3u8
+#EXTINF:0,Travel+Adventure
+http://persik.by/stream/7985/364494/832.m3u8
+#EXTINF:0,Travel+Adventure HD
+http://persik.by/stream/7985/364494/10323.m3u8
+#EXTINF:0,TV BY Persik
+http://persik.tv/stream/7985/364494/10416.m3u8
+#EXTINF:0,ZooПарк
+http://persik.by/stream/7985/364494/331.m3u8
+#EXTINF:0,Авто 24
+http://persik.by/stream/7985/364494/924.m3u8
+#EXTINF:0,Авто Плюс
+http://persik.by/stream/7985/364494/311.m3u8
+#EXTINF:0,Агроусадьба Медвежья Завала
+http://persik.tv/stream/7985/364494/10366.m3u8
+#EXTINF:0,База отдыха Крупенино
+http://persik.tv/stream/7985/364494/10362.m3u8
+#EXTINF:0,ББЧ
+http://persik.by/stream/7985/364494/10376.m3u8
+#EXTINF:0,Беларусь 1 HD
+http://persik.by/stream/7985/364494/10405.m3u8
+#EXTINF:0,Беларусь 2 HD
+http://persik.by/stream/7985/364494/10406.m3u8
+#EXTINF:0,Беларусь 3 HD
+http://persik.by/stream/7985/364494/10407.m3u8
+#EXTINF:0,Беларусь 5 HD
+http://persik.by/stream/7985/364494/10408.m3u8
+#EXTINF:0,Боец
+http://persik.tv/stream/7985/364494/310.m3u8
+#EXTINF:0,Ваши поздравления на Persik!
+http://persik.by/stream/7985/364494/10444.m3u8
+#EXTINF:0,Вопросы и ответы
+http://persik.by/stream/7985/364494/603.m3u8
+#EXTINF:0,ВТВ
+http://persik.by/stream/7985/364494/139.m3u8
+#EXTINF:0,Гостиница Marriott
+http://persik.tv/stream/7985/364494/10307.m3u8
+#EXTINF:0,Гостиница Sun Hotel
+http://persik.tv/stream/7985/364494/10396.m3u8
+#EXTINF:0,Гостиница Амакс
+http://persik.tv/stream/7985/364494/10367.m3u8
+#EXTINF:0,Гостиница АМАКС Визит-отель ГОМЕЛЬ
+http://persik.tv/stream/7985/364494/10375.m3u8
+#EXTINF:0,Гостиница Беларусь
+http://persik.tv/stream/7985/364494/10308.m3u8
+#EXTINF:0,Гостиница Брест-Интурист
+http://persik.tv/stream/7985/364494/10486.m3u8
+#EXTINF:0,Гостиница Лида 
+http://persik.tv/stream/7985/364494/10374.m3u8
+#EXTINF:0,Гостиница Лучёса
+http://persik.tv/stream/7985/364494/10384.m3u8
+#EXTINF:0,Гостиница Парадиз-отель
+http://persik.tv/stream/7985/364494/10386.m3u8
+#EXTINF:0,Гостиница Пекин
+http://persik.tv/stream/7985/364494/10306.m3u8
+#EXTINF:0,Гостиница Припять
+http://persik.tv/stream/7985/364494/10401.m3u8
+#EXTINF:0,Гостиница Ренессанс
+http://persik.tv/stream/7985/364494/10358.m3u8
+#EXTINF:0,Гостиница Сож
+http://persik.tv/stream/7985/364494/10402.m3u8
+#EXTINF:0,Гостиница Эрмитаж
+http://persik.tv/stream/7985/364494/10428.m3u8
+#EXTINF:0,Гостиничный комплекс Мирский посад
+http://persik.tv/stream/7985/364494/10377.m3u8
+#EXTINF:0,Гостиничный комплекс Турист***Надзея
+http://persik.tv/stream/7985/364494/10385.m3u8
+#EXTINF:0,Детский
+http://persik.by/stream/7985/364494/246.m3u8
+#EXTINF:0,Домашние животные
+http://persik.by/stream/7985/364494/601.m3u8
+#EXTINF:0,Драйв
+http://persik.by/stream/7985/364494/241.m3u8
+#EXTINF:0,Живи!
+http://persik.tv/stream/7985/364494/511.m3u8
+#EXTINF:0,Здоровое ТВ
+http://persik.by/stream/7985/364494/242.m3u8
+#EXTINF:0,Иллюзион+
+http://persik.by/stream/7985/364494/327.m3u8
+#EXTINF:0,Кинокомедия
+http://persik.tv/stream/7985/364494/292.m3u8
+#EXTINF:0,Киномикс
+http://persik.by/stream/7985/364494/608.m3u8
+#EXTINF:0,Кинопремьера
+http://persik.by/stream/7985/364494/34.m3u8
+#EXTINF:0,Кинопремьера HD
+http://persik.by/stream/7985/364494/10240.m3u8
+#EXTINF:0,Киносвидание
+http://persik.by/stream/7985/364494/30.m3u8
+#EXTINF:0,Киносемья
+http://persik.by/stream/7985/364494/590.m3u8
+#EXTINF:0,Кинохит
+http://persik.by/stream/7985/364494/213.m3u8
+#EXTINF:0,Культура
+http://persik.tv/stream/7985/364494/15.m3u8
+#EXTINF:0,Кухня ТВ
+http://persik.tv/stream/7985/364494/383.m3u8
+#EXTINF:0,КХЛ HD
+http://persik.by/stream/7985/364494/10242.m3u8
+#EXTINF:0,КХЛ ТВ
+http://persik.by/stream/7985/364494/604.m3u8
+#EXTINF:0,МИР HD
+http://persik.by/stream/7985/364494/10283.m3u8
+#EXTINF:0,Многосерийное ТВ
+http://persik.tv/stream/7985/364494/278.m3u8
+#EXTINF:0,Мужское кино
+http://persik.by/stream/7985/364494/10025.m3u8
+#EXTINF:0,Мужское кино HD
+http://persik.by/stream/7985/364494/10368.m3u8
+#EXTINF:0,Мультимания
+http://persik.by/stream/7985/364494/286.m3u8
+#EXTINF:0,Наш футбол
+http://persik.by/stream/7985/364494/284.m3u8
+#EXTINF:0,Наш Футбол HD
+http://persik.tv/stream/7985/364494/10294.m3u8
+#EXTINF:0,Наше новое кино
+http://persik.by/stream/7985/364494/260.m3u8
+#EXTINF:0,ОНТ HD
+http://persik.by/stream/7985/364494/10409.m3u8
+#EXTINF:0,Отель Willing Hotel
+http://persik.tv/stream/7985/364494/10425.m3u8
+#EXTINF:0,Отель НЕМАН
+http://persik.tv/stream/7985/364494/10424.m3u8
+#EXTINF:0,Отель Семашко
+http://persik.tv/stream/7985/364494/10484.m3u8
+#EXTINF:0,Отель Сити
+http://persik.tv/stream/7985/364494/10485.m3u8
+#EXTINF:0,Охота и рыбалка
+http://persik.by/stream/7985/364494/243.m3u8
+#EXTINF:0,Перец International
+http://persik.by/stream/7985/364494/10273.m3u8
+#EXTINF:0,Психология21
+http://persik.by/stream/7985/364494/602.m3u8
+#EXTINF:0,Ретро
+http://persik.by/stream/7985/364494/244.m3u8
+#EXTINF:0,Русский иллюзион
+http://persik.by/stream/7985/364494/177.m3u8
+#EXTINF:0,Санаторий Алеся
+http://persik.tv/stream/7985/364494/10383.m3u8
+#EXTINF:0,Санаторий Альфа Радон
+http://persik.tv/stream/7985/364494/10027.m3u8
+#EXTINF:0,Санаторий Буг
+http://persik.tv/stream/7985/364494/10397.m3u8
+#EXTINF:0,Санаторий Жемчужина
+http://persik.tv/stream/7985/364494/10352.m3u8
+#EXTINF:0,Санаторий Лесные озера
+http://persik.tv/stream/7985/364494/10363.m3u8
+#EXTINF:0,Санаторий Магистральный
+http://persik.tv/stream/7985/364494/10399.m3u8
+#EXTINF:0,Санаторий Озерный
+http://persik.tv/stream/7985/364494/10353.m3u8
+#EXTINF:0,Санаторий Плисса
+http://persik.tv/stream/7985/364494/10354.m3u8
+#EXTINF:0,Санаторий Поречье
+http://persik.tv/stream/7985/364494/10324.m3u8
+#EXTINF:0,Санаторий Пралеска
+http://persik.tv/stream/7985/364494/10400.m3u8
+#EXTINF:0,Санаторий Радон
+http://persik.tv/stream/7985/364494/10370.m3u8
+#EXTINF:0,Санаторий Радуга
+http://persik.tv/stream/7985/364494/10351.m3u8
+#EXTINF:0,Санаторий Ружанский
+http://persik.tv/stream/7985/364494/10382.m3u8
+#EXTINF:0,Санаторий Свитанок
+http://persik.tv/stream/7985/364494/10427.m3u8
+#EXTINF:0,Санаторий Свитязь
+http://persik.tv/stream/7985/364494/10364.m3u8
+#EXTINF:0,Санаторий Чаборок
+http://persik.tv/stream/7985/364494/10378.m3u8
+#EXTINF:0,Светлое ТВ
+http://persik.by/stream/7985/364494/10322.m3u8
+#EXTINF:0,Светлое ТВ HD
+http://persik.by/stream/7985/364494/10426.m3u8
+#EXTINF:0,Совершенно секретно
+http://persik.by/stream/7985/364494/350.m3u8
+#EXTINF:0,Союз
+http://persik.by/stream/7985/364494/235.m3u8
+#EXTINF:0,Спорт 1
+http://persik.by/stream/7985/364494/270.m3u8
+#EXTINF:0,Спорт 2
+http://persik.by/stream/7985/364494/309.m3u8
+#EXTINF:0,СТВ HD
+http://persik.by/stream/7985/364494/10410.m3u8
+#EXTINF:0,ТВ-3 Беларусь
+http://persik.by/stream/7985/364494/847.m3u8
+#EXTINF:0,ТелеДом HD
+http://persik.by/stream/7985/364494/10419.m3u8
+#EXTINF:0,ТНТ International
+http://persik.by/stream/7985/364494/1052.m3u8
+#EXTINF:0,Усадьба
+http://persik.by/stream/7985/364494/305.m3u8
+#EXTINF:0,Футбол
+http://persik.by/stream/7985/364494/440.m3u8
+
